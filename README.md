@@ -1,4 +1,4 @@
-# 🏥 AI-Based Hospital Resource Failure Predictor
+# 🏥 Hospital-Resource-Predictor
 
 ## 📌 Overview
 
